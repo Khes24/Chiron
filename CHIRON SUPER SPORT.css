@@ -1,0 +1,56 @@
+body {
+    background: url(CHIRON.jpg) no-repeat;
+    background-color: grey;
+    background-blend-mode: multiply;
+    padding: 5%;
+    background-size: 2000px;
+    
+}
+h1 {
+    font-family: sans-serif;
+    font-size: 50px;
+    border-bottom: solid 1px red;
+    text-align: left;
+    padding-left: 1%;
+    color: black;
+    
+}
+
+img {
+    float: left;
+}
+
+#a1 {
+    float: right;
+}
+
+h2 {
+    text-align: right;
+    font-size: 45px;
+    margin-right: 2%;
+    color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#div1 {
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+    color: aliceblue;
+    text-align: justify;
+    margin-right: 2%;
+    width: 30.0%;
+    float: right;
+}
+
+button {
+    padding: 4% 9%;
+    border: none;
+    background-color: #C3002F;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+
+
+}
